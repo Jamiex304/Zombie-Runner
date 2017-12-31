@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ZombieRunner\Scripts\ClearArea.cs">
+    <Files>
+      <File FileName="Assets\ZombieRunner\Scripts\Helicopter.cs" Line="15" Column="21" />
+      <File FileName="Assets\ZombieRunner\Scripts\InnerVoice.cs" Line="19" Column="22" />
+      <File FileName="Assets\ZombieRunner\Scripts\Player.cs" Line="38" Column="17" />
+      <File FileName="Assets\ZombieRunner\Scripts\RadioSystem.cs" Line="29" Column="35" />
+      <File FileName="Assets\ZombieRunner\Scripts\ClearArea.cs" Line="18" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

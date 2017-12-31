@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ZombieRunner/LevelOneZR/LevelOneZR.unity
+  isLoaded: 1
+  isActive: 1
