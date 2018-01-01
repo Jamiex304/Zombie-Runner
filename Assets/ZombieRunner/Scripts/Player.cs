@@ -6,6 +6,7 @@ public class Player : MonoBehaviour {
 
 	public Transform playerSpawnPoints; // The Parent of the the Spawn Points Container
 	public bool reSpawn = false; // Test Respawn Trigger
+	public GameObject landingAreaPrefab;
 
 	private Transform[] spawnPoints; // Array of Spawn Points
 	private bool lastToggle = false;
@@ -36,5 +37,6 @@ public class Player : MonoBehaviour {
 
 	void DropFlare(){
 		//Drop a Flare
+		Instantiate(landingAreaPrefab, transform.position, transform.rotation);
 	}
 }

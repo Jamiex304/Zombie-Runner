@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -176,8 +176,8 @@ MonoBehaviour:
     y: 0
     width: 372
     height: 496
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -265,7 +265,7 @@ MonoBehaviour:
   - {fileID: 23}
   - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 4
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -288,9 +288,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1363
+    x: 1378
     y: 101
-    width: 557
+    width: 542
     height: 909
 --- !u!114 &13
 MonoBehaviour:
@@ -627,23 +627,23 @@ MonoBehaviour:
     height: 475
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7cfbffff
-    m_LastClickedID: -1156
-    m_ExpandedIDs: 7cfbffffa6fbffff000000007a2f0000862f0000
+    m_SelectedIDs: ac300000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 208affff76fbffff7afbffffa6fbffff000000007c2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: ClearArea
+      m_OriginalName: ClearArea
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -1192
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -679,14 +679,14 @@ MonoBehaviour:
     width: 1000
     height: 475
   m_SceneLighting: 1
-  lastFramingTime: 1283.133570284336
+  lastFramingTime: 342.3240148022048
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 518.884, y: 51.539154, z: 319.41016}
+    m_Target: {x: 401.95724, y: 46.590736, z: 415.41846}
     speed: 2
-    m_Value: {x: 518.884, y: 51.539154, z: 319.41016}
+    m_Value: {x: 401.95724, y: 46.590736, z: 415.41846}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -713,9 +713,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.11423126, y: -0.3786511, z: 0.047155794, w: -0.9172518}
   m_Size:
-    m_Target: 111.59408
+    m_Target: 31.621847
     speed: 2
-    m_Value: 111.59408
+    m_Value: 31.621847
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -765,19 +765,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/ZombieRunner/Scripts
+    - Assets/ZombieRunner
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/ZombieRunner/Scripts
+  - Assets/ZombieRunner
   m_LastFoldersGridSize: -1
   m_LastProjectPath: H:\Positron Studio\Project Unity Development\Zombie Runner\ZombieRunner
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 342c0000
-    m_LastClickedID: 11316
-    m_ExpandedIDs: 00000000b02700002e2800004a280000d428000040290000282a0000402a0000c82a0000482b0000c42b0000462e0000562e0000622e0000b02e000000ca9a3bffffff7f
+    m_SelectedIDs: 4a280000
+    m_LastClickedID: 10314
+    m_ExpandedIDs: 00000000b027000040290000402a0000c82a0000482b0000c42b0000162e0000462e0000562e0000622e0000b02e0000c22e0000e434000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -805,7 +805,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b02700004a280000d428000040290000282a0000402a0000c82a0000482b0000c42b0000462e0000562e0000622e0000b02e0000
+    m_ExpandedIDs: 00000000b02700002e2800004a280000d428000040290000282a0000402a0000c82a0000482b0000c42b0000462e0000562e0000622e0000b02e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -832,7 +832,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 000000008a2400002a240000c42c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
